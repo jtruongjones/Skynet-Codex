@@ -3,8 +3,8 @@ Baltimore Crime Rates - DAT 490 Capstone
 Team Name: Skynet Codex
 
 Team Members:
-Schoppert, Brandon (Team Lead)
-Kattner, Chavon
-Truong-Jones, Jake
-Elsaady, Saif
+Brandon Schoppert, (Team Lead)
+Chavon Kattner, 
+Jake Truong-Jones, 
+Saif Elsaady
 
